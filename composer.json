@@ -1,5 +1,5 @@
 {
-    "name": "cakephp/cakephp-codesniffer",
+    "name": "evolutednewmedia/cakephp-codesniffer",
     "description": "CakePHP CodeSniffer Standards",
     "type": "library",
     "keywords": ["framework", "codesniffer"],
